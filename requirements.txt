@@ -1,0 +1,9 @@
+mediapipe
+dlib
+numpy
+playsound
+imutils
+scipy
+math
+time
+opencv-python
